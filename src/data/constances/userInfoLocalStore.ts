@@ -1,0 +1,10 @@
+export const USER_ACCESS_TOKEN: string = "user_token";
+export const USER_REFRESH_TOKEN: string = "user_refreshing_token";
+export const USER_INFO_USERNAME: string = "user_info_username";
+export const USER_INFO_FULLNAME: string = "user_info_fullname";
+// export const;
+// export const;
+// export const;
+// export const;
+// export const;
+// export const;
