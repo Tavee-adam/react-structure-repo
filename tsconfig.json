@@ -19,8 +19,15 @@
     "baseUrl": "src",
     "paths": {
       "@/*": ["./src/*"],
+      "@/assets/*": ["assets/*"],
       "@/components/*": ["components/*"],
+      "@/contexts/*": ["contexts/*"],
       "@/data/constances/*": ["data/constances/*"],
+      "@/hooks/*": ["hooks/*"],
+      "@/libs/*": ["libs/*"],
+      "@/pages/*": ["pages/*"],
+      "@/routes/*": ["routes/*"],
+      "@/services/*": ["services/*"],
       "@/utils/*": ["utils/*"]
     }
   },
