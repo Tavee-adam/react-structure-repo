@@ -1,7 +1,7 @@
 import React from "react";
 
-const Index = () => {
-  return <div>Index</div>;
+const Login = () => {
+  return <div>Login</div>;
 };
 
-export default Index;
+export default Login;

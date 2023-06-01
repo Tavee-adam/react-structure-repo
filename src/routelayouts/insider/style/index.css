@@ -1,0 +1,29 @@
+.appIn {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin-top: 0;
+}
+
+.headerIn {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 20%;
+}
+.bodyIn {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.sideIn {
+  /* flex: 3; */
+  width: 30%;
+}
+.mainIn {
+  /* flex: 9; */
+  width: 70%;
+}

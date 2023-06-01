@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+}
